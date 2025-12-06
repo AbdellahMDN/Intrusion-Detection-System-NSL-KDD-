@@ -136,7 +136,7 @@ This model achieves **one of the best results reported** on the official NSL-KDD
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/intrusion-detection-system.git
+git clone https://github.com/AbdellahMDN/Intrusion-Detection-System-NSL-KDD.git
 cd intrusion-detection-system
 ```
 
@@ -270,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [@abdellahMDN](https://github.com/AbdellahMDN)
 - Email: moudianeabdellah@gmail.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Kaagle: [moud[IA]ne](https://www.kaggle.com/abdellahmdn)
 
 ---
 
