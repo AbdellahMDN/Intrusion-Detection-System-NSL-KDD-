@@ -6,8 +6,6 @@
 
 A high-performance machine learning-based Intrusion Detection System achieving **93.44% accuracy** and **99.07% attack detection rate** on the official NSL-KDD test set.
 
-![IDS Banner](https://via.placeholder.com/800x200/1D3557/FFFFFF?text=Network+Intrusion+Detection+System)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -270,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [@abdellahMDN](https://github.com/AbdellahMDN)
 - Email: moudianeabdellah@gmail.com
-- Kaagle: [moud[IA]ne](https://www.kaggle.com/abdellahmdn)
+- Kaggle: [moud[IA]ne](https://www.kaggle.com/abdellahmdn)
 
 ---
 
